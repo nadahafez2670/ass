@@ -1,8 +1,5 @@
 # Madrid Daily Weather (1997–2015): Data Analysis and Computer Vision
 
-## 1. Assignment objective
-The assignment asks us to analyze a dataset using suitable data-analysis methods, encode the dataset into an image, examine that image using computer-vision techniques, and compare the computer-vision results with the original analysis.
-
 This notebook uses the **Madrid Daily Weather (1997–2015)** dataset. The conclusions below are based on the outputs and visualizations saved in the submitted notebook.
 
 ## 2. Dataset overview
